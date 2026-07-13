@@ -22,8 +22,9 @@ This repository contains my Python programs and practice exercises as I learn Py
 - Student Management System
 - Notes Manager
 - School Management System
-- Fibonacci & Factorial Programs
 - File Handling Exercises
+- Guess The Number Game
+- Simple Calculator
 
 ## 🎯 Goal
 
